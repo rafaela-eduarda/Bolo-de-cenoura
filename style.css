@@ -39,17 +39,6 @@ p {
     gap: 10px; /*cria um vão entre os videos */
 }
 
-.categoria {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: 50px;
-}
-
-.categoria-videos img {
-    opacity: 0.5;
-    height: 200px;
-}
-
 .categoria-videos img:hover {
     opacity: 1.0;
     border: 3px solid rgb(128, 31, 255);
@@ -63,6 +52,8 @@ p {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
+}
+    
 }
 .categoria-videos img {
     opacity: 0.5;
